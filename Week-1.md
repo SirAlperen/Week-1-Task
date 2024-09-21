@@ -5,4 +5,4 @@ I have read and understood information on ELE361L web-site(ele361l.github.io)
 Takılı RAM    32,0 GB (kullanılabilir: 31,7 GB)  
 Edisyon       Windows 11 Home   
 Sürüm         23H2<pre>
- 
+ -
